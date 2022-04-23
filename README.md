@@ -1,0 +1,1 @@
+# altera-de-cv-mining
